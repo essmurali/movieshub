@@ -8,3 +8,5 @@
 1. Clone the webservice code from <https://github.com/essmurali/movieshubapi> and start the application by executing
     > php -S localhost:8000 -t public
 2. Please check the environment setup from <https://lumen.laravel.com/docs/8.x/installation>
+3. FYI, The API Url was configured in the file "services/MovieHubService.php".
+4. Now clone this repo <https://github.com/essmurali/movieshub> and run. That's it :)
