@@ -1,8 +1,9 @@
 # Movies Hub
 > It display movies list and search movies from the webservice developed in Lumen Framework
+
 ## Demo Video
 
-1. <https://www.awesomescreenshot.com/video/3505301?key=8491939b84dffeb2f62c7aaa1bc4cd5f>
+https://user-images.githubusercontent.com/80464872/115983022-72990e00-a5bc-11eb-91af-cf2f8c6a8eec.mp4
 
 ## Development setup
 1. Clone the webservice code from <https://github.com/essmurali/movieshubapi> and start the application by executing
