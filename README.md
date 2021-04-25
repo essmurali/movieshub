@@ -7,4 +7,4 @@
 ## Development setup
 1. Clone the webservice code from <https://github.com/essmurali/movieshubapi> and start the application by executing
     > php -S localhost:8000 -t public
-   Please check the environment setup from <https://lumen.laravel.com/docs/8.x/installation>
+2. Please check the environment setup from <https://lumen.laravel.com/docs/8.x/installation>
